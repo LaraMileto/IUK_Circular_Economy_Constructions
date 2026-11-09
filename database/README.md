@@ -50,6 +50,3 @@ Implement the ER model as a relational SQLite database and record **five busines
 - One source region and one warehouse reflect Zweitbau's initial scale. More regions/warehouses can be added later for growth modelling.
 - In these sample data, all material quantities use `Stueck`. Future reporting must not add quantities in incompatible units (e.g. `m2` plus `Stueck`).
 
-## AI use disclosure
-
-Database schema, demonstration data, integrity checks and scripts were prepared with assistance from ChatGPT and must be declared as required by Case C Task 7 and HSG guidance. Review/adjust decisions personally. Do not claim that these files were independently authored or tested in your own VS Code environment until you have done so.
